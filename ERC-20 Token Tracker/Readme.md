@@ -43,8 +43,8 @@ A modern, real-time ERC-20 token tracking application built with React that conn
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/neonite2217/BlockChain/erc20-token-tracker.git
-cd erc20-token-tracker
+git clone https://github.com/neonite2217/BlockChain/ERC-20%20Token%20Tracker.git
+cd ERC-20%20Token%20Tracker
 ```
 
 2. **Install dependencies**
@@ -237,6 +237,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the Ethereum community**
 
-[⭐ Star this repo](https://github.com/neonite2217/BlockChain/erc20-token-tracker) | [🍴 Fork it](https://github.com/neonite2217/BlockChain/erc20-token-tracker/fork) 
+[⭐ Star this repo](https://github.com/neonite2217/BlockChain/ERC-20%20Token%20Tracker) | [🍴 Fork it](https://github.com/neonite2217/BlockChain/ERC-20%20Token%20Tracker/fork) 
 
 </div>
